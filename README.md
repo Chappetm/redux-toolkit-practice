@@ -1,4 +1,4 @@
-# REACT-TOOLKIT PRACTICE
+# REACT-TOOLKIT PRACTICE (To-Do app)
 
 This project was created with the following tools:
 
